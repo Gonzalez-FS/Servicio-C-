@@ -1,0 +1,56 @@
+﻿Instalando ensamblado 'C:\WindowsService3\bin\Debug\WindowsService3.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService3\bin\Debug\WindowsService3.InstallLog
+   assemblypath = C:\WindowsService3\bin\Debug\WindowsService3.exe
+Instalando el servicio Service3...
+El servicio Service3 se ha instalado correctamente.
+Creando el origen de EventLog Service3 en el registro Application...
+Confirmando ensamblado 'C:\WindowsService3\bin\Debug\WindowsService3.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService3\bin\Debug\WindowsService3.InstallLog
+   assemblypath = C:\WindowsService3\bin\Debug\WindowsService3.exe
+Desinstalando ensamblado 'C:\WindowsService3\bin\Debug\WindowsService3.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService3\bin\Debug\WindowsService3.InstallLog
+   assemblypath = C:\WindowsService3\bin\Debug\WindowsService3.exe
+Quitando el origen de EventLog Service3.
+Se está quitando el servicio Service3 del sistema...
+El servicio Service3 se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\WindowsService3\bin\Debug\WindowsService3.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService3\bin\Debug\WindowsService3.InstallLog
+   assemblypath = C:\WindowsService3\bin\Debug\WindowsService3.exe
+Instalando el servicio Service3...
+El servicio Service3 se ha instalado correctamente.
+Creando el origen de EventLog Service3 en el registro Application...
+Confirmando ensamblado 'C:\WindowsService3\bin\Debug\WindowsService3.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService3\bin\Debug\WindowsService3.InstallLog
+   assemblypath = C:\WindowsService3\bin\Debug\WindowsService3.exe
+Desinstalando ensamblado 'C:\WindowsService3\bin\Debug\WindowsService3.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService3\bin\Debug\WindowsService3.InstallLog
+   assemblypath = C:\WindowsService3\bin\Debug\WindowsService3.exe
+Quitando el origen de EventLog Service3.
+Se está quitando el servicio Service3 del sistema...
+El servicio Service3 se ha quitado correctamente del sistema.
+Intento de detener el servicio Service3.
+Instalando ensamblado 'C:\WindowsService3\bin\Debug\WindowsService3.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService3\bin\Debug\WindowsService3.InstallLog
+   assemblypath = C:\WindowsService3\bin\Debug\WindowsService3.exe
+Instalando el servicio Service3...
+El servicio Service3 se ha instalado correctamente.
+Creando el origen de EventLog Service3 en el registro Application...
+Confirmando ensamblado 'C:\WindowsService3\bin\Debug\WindowsService3.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\WindowsService3\bin\Debug\WindowsService3.InstallLog
+   assemblypath = C:\WindowsService3\bin\Debug\WindowsService3.exe

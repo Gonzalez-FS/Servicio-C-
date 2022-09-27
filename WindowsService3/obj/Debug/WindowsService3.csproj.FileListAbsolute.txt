@@ -1,0 +1,10 @@
+C:\WindowsService3\bin\Debug\WindowsService3.exe.config
+C:\WindowsService3\bin\Debug\WindowsService3.exe
+C:\WindowsService3\bin\Debug\WindowsService3.pdb
+C:\WindowsService3\obj\Debug\WindowsService3.csprojAssemblyReference.cache
+C:\WindowsService3\obj\Debug\WindowsService3.ProjectInstaller.resources
+C:\WindowsService3\obj\Debug\WindowsService3.Service3.resources
+C:\WindowsService3\obj\Debug\WindowsService3.csproj.GenerateResource.cache
+C:\WindowsService3\obj\Debug\WindowsService3.csproj.CoreCompileInputs.cache
+C:\WindowsService3\obj\Debug\WindowsService3.exe
+C:\WindowsService3\obj\Debug\WindowsService3.pdb
